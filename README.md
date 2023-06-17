@@ -3,9 +3,13 @@ Teste prático
 Requisitos:
 
 VS Code instalado  https://code.visualstudio.com/
+
 NodeJs instalado   https://nodejs.org/en
+
 Java               https://www.java.com/en/download/
+
 Jmeter             https://jmeter.apache.org/download_jmeter.cgi
+
 
 1- Digitar: npm install 
 
@@ -16,8 +20,11 @@ Jmeter             https://jmeter.apache.org/download_jmeter.cgi
 4- Para rodar os testes no browser, digitar no terminal:
 
 npm run test:chrome 
+
 npm run test:firefox
+
 npm run test:edge
+
 
 4.1 - Para rodar os testes UI em backend, digitar: 
 
