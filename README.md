@@ -46,5 +46,7 @@ Testes de em API/agenda.test.js
 O resultado estará em: (local onde foi baixado o projeto)\Teste IA\Results.csv
 
 5.1 - O teste de carga consiste em 1000 usuários simultâneos fazendo get diretamente na api para listagem dos contatos
+
 5.2 - Esse cenário foi escolhido por conta do maior número de dados que essa requisição tem que trazer
+
 5.3 - O teste pode ser utilizado para verificar tempo de resposta e disponibilidade da Api com grande número de requisições simultâneas através dos relatórios disponibilizados pelo Jmeter 
